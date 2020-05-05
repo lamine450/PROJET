@@ -1,0 +1,115 @@
+.container{
+background-color: white;
+height: 98%;
+width: 90%;
+position: relative;
+top: 0.2%;
+left: 5%;     
+}
+
+.inscrire{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 2%;
+    top: 2%;
+}
+
+.niveau{
+    font-size: 16px;
+    position: relative;
+    left: 2%;
+    top: 2%;
+}
+
+.input-form0
+{
+    height: 60px;
+    margin: 10px 35px;    
+}
+
+ .form-control0
+{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: silver;
+}
+.AVT{
+    font-size: 15px;
+    color: black;
+    position: absolute;
+    top: 70%;
+    left: 3%;
+}
+.choisir{
+        background-color:  cyan;  
+        width: 12%;
+        height: 4%;
+        border: 5px cyan;
+        position: absolute;
+        left: 30.5%;
+        top: 70%;
+}
+.fichier{
+    color: white;
+    font-size: 16px;
+    font-family: 5px;
+    position: relative;
+    left: 15px;
+    top: 5px;       
+}
+.compt{
+    background-color:  cyan;  
+        width: 9.5%;
+        height: 4%;
+        border: 5px cyan;
+        position: absolute;
+        left: 21.5%;
+        top: 75%;
+}
+.cree{
+    color: white;
+    font-size: 16px;
+    font-family: 5px;
+    position: relative;
+    left: 13px;
+    top: 5px;       
+}
+
+
+.img-user{
+    background-image: cover;
+    border: 2px solid darkturquoise;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    left: 80%;
+    bottom: 330px;
+}
+.avatar{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    position: relative;
+    left: 80.5%;
+    bottom: 330px;
+
+}
+
+.label-file{
+    cursor: pointer;
+    color: #00b1ca;
+    font-weight: bold;
+}
+.labal-file:hover{
+    color: #25a5c4;
+    position: absolute;
+    left: 21.5%;
+    top: 75%;
+}

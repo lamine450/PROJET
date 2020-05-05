@@ -1,0 +1,161 @@
+.container{
+    position: relative;
+    top: 1%;
+    left: 5%;
+    height: 98%;
+    width: 90%;
+    background-color: whitesmoke;
+}
+
+.container-header{
+    height: 100px;
+    background-color: darkturquoise;
+}
+.deconnexion{
+    background-color:  cyan;  
+    width: 10%;
+    height: 30%;
+    border: 5px cyan;
+    position: relative;
+    bottom: 94%;
+    left: 80%;
+
+}
+
+.title-1{
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+    
+}
+
+.title{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 50px;
+    position: relative;
+    left: 25%;
+    bottom: 15%;
+    
+}
+
+.liste-1{
+
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    position: relative;
+    top: 10%;
+    left: 1%;
+    height: 60%;
+    width: 35%;
+    background-color: white;
+      
+}
+.container-user{
+    height: 150px;
+    background-color: darkturquoise;
+    position: relative;
+    bottom: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 1%;
+
+}
+
+.img-user{
+    background-image: cover;
+    border: 2px solid dimgray;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 5%;
+    top: 20px;
+}
+.prenom{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 35%;
+    bottom: 70px;
+
+}
+.nom{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 45%;
+    bottom: 70px;
+
+}
+.sousmenu{
+    font-size: 20px;
+    height: 40px;
+    font-weight: 98px;
+    padding-left: 10%;
+}
+
+.icajout{
+    background-image:  url(../Icones/ic-ajout.png);
+    background-repeat: no-repeat;
+    background-position: 98%;
+}
+
+.iclist{
+    background-image: url(../Icones/ic-liste.png);
+    background-repeat: no-repeat;
+    background-position: 98%;
+}
+.active{
+    border-left: 5px solid green;
+    opacity: 0.5;
+}
+.icajout{
+    background-image: url(../Icones/ic-ajout-active.png);
+}
+.iclist.active{
+    background-image: url(../Icones/ic-liste-active.png ); 
+}
+.container-liste{
+    height: 136%;
+    width: 150%;
+    background-color: white;
+    position: relative;
+    left: 103%;
+    bottom: 96%;
+    border-radius: 10px;
+}
+.suivant{
+    background-color:  cyan;  
+    width: 15%;
+    height: 6%;
+    border: 5px cyan;
+    position: relative;
+    left: 80%;
+    top: 93%;
+}
+
+.title-suivant{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 15px;
+    top: 5px;       
+}
+
+.cadre{
+    background-color: white;
+    width: 90%;
+    height: 75%;
+    border: 2px solid cyan;
+    position: relative;
+    left: 29px;
+    top: 55px;
+    border-radius: 10px;
+    
+}
